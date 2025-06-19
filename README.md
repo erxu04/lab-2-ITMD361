@@ -1,2 +1,2 @@
-# lab-2
-ITMD-361 Lab 2 webpage
+# ITMD361 Lab 2
+Plain HTML webpage for a class description
